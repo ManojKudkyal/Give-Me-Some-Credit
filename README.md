@@ -22,10 +22,10 @@ What is SMOTE? <br>
 SMOTE (Synthetic Minority Over-sampling Technique) is an oversampling technique that creates synthetic examples of the minority class. Unlike simple oversampling where duplicate examples are added, SMOTE generates new instances by interpolating between existing minority class examples.
 
 How SMOTE Works: <br>
-Select a Minority Class Sample: Choose a sample from the minority class.
-Find k Nearest Neighbors: Identify k nearest neighbors for this sample (typically k=5).
-Synthesize New Samples: For each selected sample, create new synthetic samples by interpolating between the selected sample and its neighbors.
-By using SMOTE, we aim to provide a more balanced dataset to our logistic regression model, which should help improve the model's ability to correctly classify minority class instances.
+* Select a Minority Class Sample: Choose a sample from the minority class.
+* Find k Nearest Neighbors: Identify k nearest neighbors for this sample (typically k=5).
+* Synthesize New Samples: For each selected sample, create new synthetic samples by interpolating between the selected sample and its neighbors.
+* By using SMOTE, we aim to provide a more balanced dataset to our logistic regression model, which should help improve the model's ability to correctly classify minority class instances.
 
 ## Outputs
 
