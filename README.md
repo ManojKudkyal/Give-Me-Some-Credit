@@ -16,7 +16,7 @@ Credit scoring algorithms, which make a guess at the probability of default, are
 
 # Balancing technique used
 To address the issue of class imbalance in our dataset, we utilized the 
-## Synthetic Minority Over-sampling Technique (SMOTE). 
+### Synthetic Minority Over-sampling Technique (SMOTE). 
 
 What is SMOTE?
 SMOTE (Synthetic Minority Over-sampling Technique) is an oversampling technique that creates synthetic examples of the minority class. Unlike simple oversampling where duplicate examples are added, SMOTE generates new instances by interpolating between existing minority class examples.
