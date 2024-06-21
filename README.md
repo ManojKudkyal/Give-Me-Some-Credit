@@ -19,7 +19,7 @@ To address the issue of class imbalance in our dataset, we utilized the
 ### Synthetic Minority Over-sampling Technique (SMOTE). 
 
 What is SMOTE? <br>
-<br />SMOTE (Synthetic Minority Over-sampling Technique) is an oversampling technique that creates synthetic examples of the minority class. Unlike simple oversampling where duplicate examples are added, SMOTE generates new instances by interpolating between existing minority class examples.
+<br /> SMOTE (Synthetic Minority Over-sampling Technique) is an oversampling technique that creates synthetic examples of the minority class. Unlike simple oversampling where duplicate examples are added, SMOTE generates new instances by interpolating between existing minority class examples.
 
 How SMOTE Works: <br>
 * Select a Minority Class Sample: Choose a sample from the minority class.
