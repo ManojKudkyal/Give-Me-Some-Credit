@@ -23,8 +23,8 @@ Credit scoring algorithms, which make a guess at the probability of default, are
            1       0.46      0.01      0.02      2940
 
     accuracy                           0.93     45000
-   macro avg       0.70      0.51      0.49     45000
-weighted avg       0.90      0.93      0.90     45000
+    macro avg       0.70      0.51      0.49     45000
+    weighted avg       0.90      0.93      0.90     45000
 
 
 
@@ -35,8 +35,8 @@ weighted avg       0.90      0.93      0.90     45000
            1       0.81      0.48      0.60     42146
 
     accuracy                           0.68     83985
-   macro avg       0.72      0.68      0.67     83985
-weighted avg       0.72      0.68      0.67     83985
+    macro avg       0.72      0.68      0.67     83985
+    weighted avg       0.72      0.68      0.67     83985
 
 
 
